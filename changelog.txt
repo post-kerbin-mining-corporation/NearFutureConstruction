@@ -1,0 +1,97 @@
+v0.5.4
+------
+- Tweaked a few part thermal values
+- Updated included ISFuelSwitch
+- Truss docking ports allow fuel crossfeed again
+
+v0.5.3
+------
+- Updated included ISFuelSwitch
+- Fixed radial stack adapters not loading due to incorrect model reference
+- Fixed missing .dds mipmaps for many parts
+- Fixed CLS patch again
+- Adjusted capacity of LH2/Ox and LH2 truss tanks
+
+v0.5.2
+------
+- CTT 2.0 bugfix
+- Fixed mass of half-sized Octo-Truss
+- Increased mass of Octo-Girder hubs
+
+v0.5.1
+------
+- CTT 2.0 update
+- Fixed stack node direction on Octo-Girder Attach Node
+- Reduced mass of Rockomax Skeletal XL Structural Adapter to 0.125
+- Updated to the latest version of InterstellarFuelSwitch (fixes issues with structural truss retaining resources)
+- Increased the mass of the Pressurized Octo-Hub to 1.0
+
+v0.5.0
+------
+- KSP 1.0 update
+- Converted all textures to DDS
+- Package now bundles Firespitter and ModuleManager
+- Optimized textures and folder structure
+- Revised all costs, masses and capacities
+- Fixed surface attach nodes for all truss pieces
+- Consolidated Octo-Truss and all fuel tanks into a single part that can switch between tanks. Hollow truss remains separate.
+- Added Octo-Truss pressurized segment
+- Added half-size Octo-Truss with all fuel variants
+- Added half-size hollow Octo-Truss
+- Added quarter-size Octo-Truss (truss only)
+- Added Octo-Truss adapter
+- Added pressurized Octo-Truss-2.5m adapter
+- Added pressurized Octo-Truss crew hub
+- Added Octo-Truss Heavy Docking Port (2.5m-compatible docking port)
+- Added CTT support for all new parts, revised CTT locations for older parts
+- Added CLS support for crew Octo-Trusses
+
+v0.4.0
+------
+- Updated to KSP version 0.90
+- Moved some part categories around
+- Added an optional MM patch to turn the Argon and Liquid Hydrogen truss tanks into LFO tanks
+
+v0.3.1
+------
+- Updated to support the Community Tech Tree
+
+v0.3.0
+------
+- Updated for KSP 0.25
+- Changed many part cfg file names (part names are unchanged)
+- Converted all textures to mbm for better memory usage
+- Adjusted some colliders, will hopefully result in better stability
+
+v0.2.3
+------
+- Stack adapter mass now depends on number of ports they provide
+- Moved Grip-O-Tron, Octo-Grider Docking Port, S-MINI Radial Stack Adapter, SM-2 Stack Dual Adapter, SM-3 Stack Triple Adapter, SM-4 Stack Quad Adapter to Nanolathing tech node
+- Fixed Octo-Girder Argon Truss incorrect cost
+- Many cost tweaks
+
+v0.2.2
+------
+- Improved the look and function of the Hollow Octo-Truss
+- Added an Octo-Truss docking port and a skeletal 2.5m docking port 
+
+v0.2.1
+------
+- Fixed S-MINI Adapter being half the size required
+
+v0.2.0
+------
+- SAVE BREAKING UPDATE!!
+- Updated for KSP 0.24
+- Adjusted costs of all parts
+- Reduced memory usage of some parts
+
+v0.1.0
+------
+- Split from main Near Future pack
+- Recoloured Rockomax Skeletal Structural Adapter to match other adapters
+- Fixed stupidly large Hydrogen and Xenon storage truss textures
+- Added Modular Octo-Girder Mission Support Segment and Fuel/Oxidizer Segment
+- Added Rockomax Skeletal XL Structural Adapter (2.5m to 3.75m)
+- Changed S-MINI stack adapter mass from 0.008 to 0.045
+- Changed SE-4B Quinta-Adapter mass to 0.15 from 0.2
