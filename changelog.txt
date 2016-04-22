@@ -1,3 +1,15 @@
+v0.6.0
+------
+- KSP 1.1
+- Converted from IFS to B9PartSwitch
+- Complete revamp of octagonal truss set - better textures, models and useability
+- New octagonal truss parts from last version - drone core, locked docking port, additional length
+- Many new truss variants 
+- Removed most 2.5m multi adpaters
+- Added new 2.5m omni adapter to fill role of removed parts
+- TEMPORARY: Removed CRP from bundle
+- TEMPORARY: Removed truss tank variants for reworking
+
 v0.5.5
 ------
 - KSP 1.05
