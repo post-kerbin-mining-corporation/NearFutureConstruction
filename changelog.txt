@@ -1,3 +1,13 @@
+v0.6.1
+------
+- KSP 1.1.2
+- Updated MM version
+- Updated B9PartSwitch version
+- Fixed direction of stack node on Octo-Girder Radial attach node
+- Added Modular Hexa-Girder L1, M1, M3 and adapter piece
+- Added new models for S-MED and S-MINI radial stack adapters
+- First pass at docking direction marking lights for docking ports
+
 v0.6.0
 ------
 - KSP 1.1
