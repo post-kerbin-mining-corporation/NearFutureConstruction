@@ -1,3 +1,11 @@
+v0.6.2
+------
+- Updated bundled MM
+- Increased the cost and mass of the Modular Octo Girder Drone core slightly
+- Added Modular Octo-Girder Nano (1/8th size truss)
+- Added 90 degree variant of Modular Octo-Girder attach point and two hollow variants
+- Added LF, LFO, OX, Xe, Ore and Utility versions to 2 largest octo-girder sizes
+
 v0.6.1
 ------
 - KSP 1.1.2
