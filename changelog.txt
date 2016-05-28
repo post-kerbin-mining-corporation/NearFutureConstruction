@@ -1,3 +1,12 @@
+v0.6.3
+------
+- Updated bundled MM
+- Updated bundled B9PartSwitch
+- Adjusted the costs of some octo-girder truss tanks
+- Fixed some CRP truss tank types being initialized if CRP was not present, causing loading problems
+- Reduced crash tolerances of trusses with Open, Hollow and Saddle configurations
+- Added CLS config to octo-girder Drone Core (inpassable by default)
+
 v0.6.2
 ------
 - Updated bundled MM
