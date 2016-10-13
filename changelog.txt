@@ -2,8 +2,10 @@ v0.6.5
 ------
 - KSP 1.2
 - Updated bundled MM
-- Octo-truss drone core functions
+- Updated bundled B9PartSwitch
+- Octo-truss drone core functions as a KerbNet/CommNet point like the large RGU
 - Fixed a few parts having the wrong module type
+- Adjusted the locations of many parts in the tech tree
 - Adjusted the price of octo-truss docking ports
 - Adjusted the price and mass of octo-truss attach node, cost varies with different structural configurations
 - Adjusted the price of octo-trusses, cost varies with different structural configurations
