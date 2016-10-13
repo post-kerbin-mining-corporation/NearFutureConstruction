@@ -2,6 +2,22 @@ v0.6.5
 ------
 - KSP 1.2
 - Updated bundled MM
+- Octo-truss drone core functions
+- Fixed a few parts having the wrong module type
+- Adjusted the price of octo-truss docking ports
+- Adjusted the price and mass of octo-truss attach node, cost varies with different structural configurations
+- Adjusted the price of octo-trusses, cost varies with different structural configurations
+- Adjusted the price of octo-truss pressurized adapter to be more than the unpressurized variant
+- Adjusted the price of hex-trusses, cost varies with different structural configurations
+- Added octo-truss angular connector in 90 degree, 45 degree and 30 degree versions
+- Added new truss set: 5m circular
+-- Regular truss: hollow, saddle and solid variants. Optional core and endcaps
+-- XL truss: hollow, saddle and solid variants. Optional core and endcaps
+-- Mini truss: hollow, saddle and solid variants. Optional core and endcaps
+-- Micro truss: hollow, saddle and solid variants. Optional core and endcaps
+-- Short 3.75->5m adapter
+-- Long 3.75->5m adapter
+-- 5m hollow Docking port
 
 v0.6.4
 ------
@@ -42,7 +58,7 @@ v0.6.0
 - Converted from IFS to B9PartSwitch
 - Complete revamp of octagonal truss set - better textures, models and useability
 - New octagonal truss parts from last version - drone core, locked docking port, additional length
-- Many new truss variants 
+- Many new truss variants
 - Removed most 2.5m multi adpaters
 - Added new 2.5m omni adapter to fill role of removed parts
 - TEMPORARY: Removed CRP from bundle
@@ -51,7 +67,7 @@ v0.6.0
 v0.5.5
 ------
 - KSP 1.05
-- Updated bundled IFS 
+- Updated bundled IFS
 - Updated CRP version
 - Added MiniAVC version checking
 
@@ -130,7 +146,7 @@ v0.2.3
 v0.2.2
 ------
 - Improved the look and function of the Hollow Octo-Truss
-- Added an Octo-Truss docking port and a skeletal 2.5m docking port 
+- Added an Octo-Truss docking port and a skeletal 2.5m docking port
 
 v0.2.1
 ------
