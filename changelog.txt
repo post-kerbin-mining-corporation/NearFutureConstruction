@@ -1,16 +1,20 @@
-v0.6.5
+v0.7.0
 ------
 - KSP 1.2
 - Updated bundled MM
 - Updated bundled B9PartSwitch
+- Updated all parts with various KSP 1.2 features
 - Octo-truss drone core functions as a KerbNet/CommNet point like the large RGU
 - Fixed a few parts having the wrong module type
+- Moved all docking ports to the Coupling category
+- Soft-deprecated the Grid-O-Tron 2.5m hollow docking port
 - Adjusted the locations of many parts in the tech tree
 - Adjusted the price of octo-truss docking ports
 - Adjusted the price and mass of octo-truss attach node, cost varies with different structural configurations
 - Adjusted the price of octo-trusses, cost varies with different structural configurations
 - Adjusted the price of octo-truss pressurized adapter to be more than the unpressurized variant
 - Adjusted the price of hex-trusses, cost varies with different structural configurations
+- Added a variant to the Octangular Docking Port, toggles a center crew hatch
 - Added octo-truss angular connector in 90 degree, 45 degree and 30 degree versions
 - Added new truss set: 5m circular
 -- Regular truss: hollow, saddle and solid variants. Optional core and endcaps
