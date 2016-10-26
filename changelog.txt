@@ -1,0 +1,176 @@
+v0.7.0
+------
+- KSP 1.2
+- Updated bundled MM
+- Updated bundled B9PartSwitch
+- Updated all parts with various KSP 1.2 features
+- Octo-truss drone core functions as a KerbNet/CommNet point like the large RGU
+- Fixed a few parts having the wrong module type
+- Moved all docking ports to the Coupling category
+- Soft-deprecated the Grid-O-Tron 2.5m hollow docking port
+- Adjusted the locations of many parts in the tech tree
+- Adjusted the price of octo-truss docking ports
+- Adjusted the price and mass of octo-truss attach node, cost varies with different structural configurations
+- Adjusted the price of octo-trusses, cost varies with different structural configurations
+- Adjusted the price of octo-truss pressurized adapter to be more than the unpressurized variant
+- Adjusted the price of hex-trusses, cost varies with different structural configurations
+- Added a variant to the Octangular Docking Port, toggles a center crew hatch
+- Added octo-truss angular connector in 90 degree, 45 degree and 30 degree versions
+- Added new truss set: 5m circular
+-- Regular truss: hollow, saddle and solid variants. Optional core and endcaps
+-- XL truss: hollow, saddle and solid variants. Optional core and endcaps
+-- Mini truss: hollow, saddle and solid variants. Optional core and endcaps
+-- Micro truss: hollow, saddle and solid variants. Optional core and endcaps
+-- Short 3.75->5m adapter
+-- Long 3.75->5m adapter
+-- 5m hollow Docking port
+
+v0.6.4
+------
+- KSP 1.1.3
+- Updated bundled CRP
+- Updated bundled B9PartSwitch
+
+v0.6.3
+------
+- Updated bundled MM
+- Updated bundled B9PartSwitch
+- Adjusted the costs of some octo-girder truss tanks
+- Fixed some CRP truss tank types being initialized if CRP was not present, causing loading problems
+- Reduced crash tolerances of trusses with Open, Hollow and Saddle configurations
+- Added CLS config to octo-girder Drone Core (inpassable by default)
+
+v0.6.2
+------
+- Updated bundled MM
+- Increased the cost and mass of the Modular Octo Girder Drone core slightly
+- Added Modular Octo-Girder Nano (1/8th size truss)
+- Added 90 degree variant of Modular Octo-Girder attach point and two hollow variants
+- Added LF, LFO, OX, Xe, Ore and Utility versions to 2 largest octo-girder sizes
+
+v0.6.1
+------
+- KSP 1.1.2
+- Updated MM version
+- Updated B9PartSwitch version
+- Fixed direction of stack node on Octo-Girder Radial attach node
+- Added Modular Hexa-Girder L1, M1, M3 and adapter piece
+- Added new models for S-MED and S-MINI radial stack adapters
+- First pass at docking direction marking lights for docking ports
+
+v0.6.0
+------
+- KSP 1.1
+- Converted from IFS to B9PartSwitch
+- Complete revamp of octagonal truss set - better textures, models and useability
+- New octagonal truss parts from last version - drone core, locked docking port, additional length
+- Many new truss variants
+- Removed most 2.5m multi adpaters
+- Added new 2.5m omni adapter to fill role of removed parts
+- TEMPORARY: Removed CRP from bundle
+- TEMPORARY: Removed truss tank variants for reworking
+
+v0.5.5
+------
+- KSP 1.05
+- Updated bundled IFS
+- Updated CRP version
+- Added MiniAVC version checking
+
+v0.5.4
+------
+- Tweaked a few part thermal values
+- Updated included ISFuelSwitch
+- Truss docking ports allow fuel crossfeed again
+
+v0.5.3
+------
+- Updated included ISFuelSwitch
+- Fixed radial stack adapters not loading due to incorrect model reference
+- Fixed missing .dds mipmaps for many parts
+- Fixed CLS patch again
+- Adjusted capacity of LH2/Ox and LH2 truss tanks
+
+v0.5.2
+------
+- CTT 2.0 bugfix
+- Fixed mass of half-sized Octo-Truss
+- Increased mass of Octo-Girder hubs
+
+v0.5.1
+------
+- CTT 2.0 update
+- Fixed stack node direction on Octo-Girder Attach Node
+- Reduced mass of Rockomax Skeletal XL Structural Adapter to 0.125
+- Updated to the latest version of InterstellarFuelSwitch (fixes issues with structural truss retaining resources)
+- Increased the mass of the Pressurized Octo-Hub to 1.0
+
+v0.5.0
+------
+- KSP 1.0 update
+- Converted all textures to DDS
+- Package now bundles Firespitter and ModuleManager
+- Optimized textures and folder structure
+- Revised all costs, masses and capacities
+- Fixed surface attach nodes for all truss pieces
+- Consolidated Octo-Truss and all fuel tanks into a single part that can switch between tanks. Hollow truss remains separate.
+- Added Octo-Truss pressurized segment
+- Added half-size Octo-Truss with all fuel variants
+- Added half-size hollow Octo-Truss
+- Added quarter-size Octo-Truss (truss only)
+- Added Octo-Truss adapter
+- Added pressurized Octo-Truss-2.5m adapter
+- Added pressurized Octo-Truss crew hub
+- Added Octo-Truss Heavy Docking Port (2.5m-compatible docking port)
+- Added CTT support for all new parts, revised CTT locations for older parts
+- Added CLS support for crew Octo-Trusses
+
+v0.4.0
+------
+- Updated to KSP version 0.90
+- Moved some part categories around
+- Added an optional MM patch to turn the Argon and Liquid Hydrogen truss tanks into LFO tanks
+
+v0.3.1
+------
+- Updated to support the Community Tech Tree
+
+v0.3.0
+------
+- Updated for KSP 0.25
+- Changed many part cfg file names (part names are unchanged)
+- Converted all textures to mbm for better memory usage
+- Adjusted some colliders, will hopefully result in better stability
+
+v0.2.3
+------
+- Stack adapter mass now depends on number of ports they provide
+- Moved Grip-O-Tron, Octo-Grider Docking Port, S-MINI Radial Stack Adapter, SM-2 Stack Dual Adapter, SM-3 Stack Triple Adapter, SM-4 Stack Quad Adapter to Nanolathing tech node
+- Fixed Octo-Girder Argon Truss incorrect cost
+- Many cost tweaks
+
+v0.2.2
+------
+- Improved the look and function of the Hollow Octo-Truss
+- Added an Octo-Truss docking port and a skeletal 2.5m docking port
+
+v0.2.1
+------
+- Fixed S-MINI Adapter being half the size required
+
+v0.2.0
+------
+- SAVE BREAKING UPDATE!!
+- Updated for KSP 0.24
+- Adjusted costs of all parts
+- Reduced memory usage of some parts
+
+v0.1.0
+------
+- Split from main Near Future pack
+- Recoloured Rockomax Skeletal Structural Adapter to match other adapters
+- Fixed stupidly large Hydrogen and Xenon storage truss textures
+- Added Modular Octo-Girder Mission Support Segment and Fuel/Oxidizer Segment
+- Added Rockomax Skeletal XL Structural Adapter (2.5m to 3.75m)
+- Changed S-MINI stack adapter mass from 0.008 to 0.045
+- Changed SE-4B Quinta-Adapter mass to 0.15 from 0.2
