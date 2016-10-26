@@ -1,3 +1,8 @@
+v0.7.1
+------
+- Fixed error on loading of annular truss docking port (fixes docking lights also)
+- Docking port lights and crew tube windows now respond correctly to Lights action group
+
 v0.7.0
 ------
 - KSP 1.2
