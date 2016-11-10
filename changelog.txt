@@ -4,6 +4,15 @@ v0.7.2
 - Updated bundled MM
 - Modular Annular Truss Adapter's collider is now hollow
 - Modular Annular Truss Adapter now has toggleable internal core piece
+- Fixed Modular Annular Truss Docking Connector's missing description
+- Added Modular Spinal Truss: 3.75m size category square truss
+-- Regular truss: hollow, demi and solid variants. Optional core and endcaps
+-- XL truss: hollow, demi and solid variants. Optional core and endcaps
+-- Mini truss: hollow, demi and solid variants. Optional core and endcaps
+-- Micro truss: hollow, demi and solid variants. Optional core and endcaps
+-- Spinal to 2.5m adapter
+-- Spinal to 3.75m adapter
+-- Spinal docking port
 
 v0.7.1
 ------
