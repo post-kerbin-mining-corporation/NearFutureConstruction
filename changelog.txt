@@ -1,3 +1,10 @@
+v0.7.2
+------
+- Marked for KSP 1.2.1
+- Updated bundled MM
+- Modular Annular Truss Adapter's collider is now hollow
+- Modular Annular Truss Adapter now has toggleable internal core piece
+
 v0.7.1
 ------
 - Fixed error on loading of annular truss docking port (fixes docking lights also)
