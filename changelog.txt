@@ -1,15 +1,14 @@
 v0.7.2
 ------
 - Marked for KSP 1.2.1
-- Updated bundled MM
+- Updated bundled MM to 2.7.4
 - Modular Annular Truss Adapter's collider is now hollow
 - Modular Annular Truss Adapter now has toggleable internal core piece
 - Fixed Modular Annular Truss Docking Connector's missing description
 - Added Modular Spinal Truss: 3.75m size category square truss
--- Regular truss: hollow, demi and solid variants. Optional core and endcaps
--- XL truss: hollow, demi and solid variants. Optional core and endcaps
--- Mini truss: hollow, demi and solid variants. Optional core and endcaps
--- Micro truss: hollow, demi and solid variants. Optional core and endcaps
+-- Regular truss: hollow, saddle, demi and solid variants. Optional core and endcaps
+-- Mini truss: hollow, saddle, demi and solid variants. Optional core and endcaps
+-- Micro truss: hollow, saddle, demi and solid variants. Optional core and endcaps
 -- Spinal to 2.5m adapter
 -- Spinal to 3.75m adapter
 -- Spinal docking port
