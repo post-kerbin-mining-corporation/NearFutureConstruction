@@ -2,6 +2,9 @@ v0.7.4
 ------
 - Updated B9PartSwitch to 1.7.1
 - Fixed download link in .version file
+- Added Lithium, Argon, LqdHydrogen, LqdHydrogen/Oxidizer tanks to tank-containing trusses. Only enabled if CRP is installed
+- Added cryo cooling abilities to tank-containing trusses. Only enabled if CRP and CryoTanks are installed
+- Added basic tank types to large and medium hex trusses (LF, LF/Ox, Ox, Xenon, Ore)
 
 v0.7.3
 ------
