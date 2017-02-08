@@ -5,6 +5,7 @@ v0.7.4
 - Added Lithium, Argon, LqdHydrogen, LqdHydrogen/Oxidizer tanks to tank-containing trusses. Only enabled if CRP is installed
 - Added cryo cooling abilities to tank-containing trusses. Only enabled if CRP and CryoTanks are installed
 - Fixed extraneous subtype node definitions on crewed octo-truss parts
+- Fixed angle of 30 degree node in angled truss piece
 
 v0.7.3
 ------
