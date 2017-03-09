@@ -1,3 +1,8 @@
+v0.7.6
+------
+- Fixed octo-truss and spinal docking connector snap offsets
+- Added bottom stack nodes to 1.25m multi-adapters
+
 v0.7.5
 ------
 - Fixed a girder collider problem
