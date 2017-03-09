@@ -1,3 +1,21 @@
+v0.7.6
+------
+- Fixed octo-truss and spinal docking connector snap offsets
+- Added bottom stack nodes to 1.25m multi-adapters
+
+v0.7.5
+------
+- Fixed a girder collider problem
+
+v0.7.4
+------
+- Updated B9PartSwitch to 1.7.1
+- Fixed download link in .version file
+- Added Lithium, Argon, LqdHydrogen, LqdHydrogen/Oxidizer tanks to tank-containing trusses. Only enabled if CRP is installed
+- Added cryo cooling abilities to tank-containing trusses. Only enabled if CRP and CryoTanks are installed
+- Fixed extraneous subtype node definitions on crewed octo-truss parts
+- Fixed angle of 30 degree node in angled truss piece
+
 v0.7.3
 ------
 - Marked for KSP 1.2.2
