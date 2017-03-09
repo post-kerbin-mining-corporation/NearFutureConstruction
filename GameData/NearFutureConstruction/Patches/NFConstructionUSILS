@@ -1,0 +1,59 @@
+//Modular Octo-Girder XL Pressurized Segment
+@PART[trusslrg-crew-1]:NEEDS[USILifeSupport]
+{
+	%MODULE[ModuleLifeSupport] { }
+
+	MODULE
+	{
+		name = ModuleHabitation
+		KerbalMonths = 2.5
+	}
+
+	%RESOURCE[ReplacementParts]
+	{
+		%amount = 250 //100 * Kerbal-Months
+		%maxAmount = 250
+	}
+
+	%MODULE[USI_ModuleFieldRepair] { }
+}
+
+//Modular Octo-Girder Pressurized Segment
+@PART[trusslrg-crew-2]:NEEDS[USILifeSupport]
+{
+	%MODULE[ModuleLifeSupport] { }
+
+	MODULE
+	{
+		name = ModuleHabitation
+		KerbalMonths = 1.25
+	}
+
+	%RESOURCE[ReplacementParts]
+	{
+		%amount = 125 //100 * Kerbal-Months
+		%maxAmount = 125
+	}
+
+	%MODULE[USI_ModuleFieldRepair] { }
+}
+
+//Octo-Girder Pressurized Hub
+@PART[trusslrg-hub-2]:NEEDS[USILifeSupport]
+{
+	%MODULE[ModuleLifeSupport] { }
+
+	MODULE
+	{
+		name = ModuleHabitation
+		KerbalMonths = 5
+	}
+
+	%RESOURCE[ReplacementParts]
+	{
+		%amount = 500 //100 * Kerbal-Months
+		%maxAmount = 500
+	}
+
+	%MODULE[USI_ModuleFieldRepair] { }
+}
