@@ -1,3 +1,8 @@
+v0.8.1
+------
+- Fix localization error on Octo-Truss Angled Crewed piece
+- Fix localization error on Annular Truss (m)
+
 v0.8.0
 ------
 - KSP 1.3
