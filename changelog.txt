@@ -1,6 +1,7 @@
 v0.8.2
 ------
 - Update B9PartSwitch to 1.8.1
+- Added Spanish Translation courtesy of forum user fitiales
 
 v0.8.1
 ------
