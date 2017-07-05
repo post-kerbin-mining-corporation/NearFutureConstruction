@@ -1,5 +1,5 @@
 ====================================
-NEAR FUTURE CONSTRUCTION PACK v0.8.2
+NEAR FUTURE CONSTRUCTION PACK v0.8.3
 ====================================
 
 This pack contains structural components suitable for building impressive looking deep space vessels and stations. This means large trusses, structural adapters, multi-adapters and radial adapters. It is part of the Near Future Technologies set of packs, so works great with any or all of them.
@@ -9,8 +9,8 @@ DEPENDENCIES
 ============
 
 Required
-- B9PartSwitch (v1.8.1)
-- ModuleManager (v2.8.0)
+- B9PartSwitch (v1.9.0)
+- ModuleManager (v2.8.1)
 
 Optional
 - Community Tech Tree (v2.0+)
@@ -23,14 +23,20 @@ I recommend removing any previous installations of Near Future Construction befo
 
 To install, place the GameData folder inside your Kerbal Space Program folder. If asked to overwrite files, do so.
 
-=======
-======
+============
 KSP-MINI-AVC
 ============
 
 This mod includes version checking using MiniAVC (http://forum.kerbalspaceprogram.com/threads/79745).
 If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent.
 For a more comprehensive version checking experience, please download the KSP-AVC Plugin (http://forum.kerbalspaceprogram.com/threads/79745).
+
+============
+LOCALIZATION
+============
+
+This mod includes localization support, and includes translations for
+- Spanish (KSP forum user fitiales)
 
 =========
 LICENSING
