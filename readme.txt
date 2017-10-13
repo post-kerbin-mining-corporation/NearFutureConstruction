@@ -9,7 +9,7 @@ DEPENDENCIES
 ============
 
 Required
-- B9PartSwitch (v1.9.0)
+- B9PartSwitch (v1.10.0)
 - ModuleManager (v2.8.1)
 
 Optional
