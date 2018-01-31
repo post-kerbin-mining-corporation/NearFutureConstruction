@@ -1,18 +1,18 @@
 {
     "NAME":"NearFutureConstruction",
-    "URL":"https://github.com/ChrisAdderley/NearFutureConstruction/blob/master/GameData/NearFutureConstruction/Versioning/NearFutureConstruction.version",
-    "DOWNLOAD":"http://forum.kerbalspaceprogram.com/threads/52042",
+    "URL":"https://raw.githubusercontent.com/ChrisAdderley/NearFutureConstruction/master/GameData/NearFutureConstruction/Versioning/NearFutureConstruction.version",
+    "DOWNLOAD":"http://forum.kerbalspaceprogram.com/index.php?/topic/155465-near-future-technologies",
     "VERSION":
     {
         "MAJOR":0,
-        "MINOR":6,
+        "MINOR":8,
         "PATCH":4,
         "BUILD":0
     },
     "KSP_VERSION":
     {
         "MAJOR":1,
-        "MINOR":1,
-        "PATCH":3
+        "MINOR":3,
+        "PATCH":1
     }
 }
