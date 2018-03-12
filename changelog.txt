@@ -1,3 +1,22 @@
+v1.0.0
+------
+- KSP 1.4.1
+- Final content update
+- Updated MM to
+- Updated B9PartSwitch to
+- Reworked crewed octo-trusses to match SSPXr art
+- Converted all parts with lights to use config animations
+- Revised textures of LH2/LH2O octo-truss variants to match up with upcoming CryoTanks update
+- New/modified parts:
+-- Replaced Cubic Octagonal Strut with new model, renamed to Cubic-Family Strut
+-- Added Cubic-Family struts in 3 sizes, can switch between cubic, triangular and planar
+-- Added adapter from Cubic/Triangular to 0.625m stack
+-- Added LFO, LF, Ox, Xenon, Mono/Ec, Ore storage to the two larger Hexa-Trusses
+-- Added LH2, LH2O, Lithium, Argon storage to the two larger Hexa-Trusses if CRP is installed
+-- Added Extra-Large Docking Connector (hollow 3.75m docking port)
+-- Added Kerbodyne Skeletal Structural Connector
+-- Added Linear Docking Connector
+
 v0.8.4
 ------
 - KSP 1.3.1
