@@ -2,8 +2,9 @@ v1.0.0
 ------
 - KSP 1.4.1
 - Final content update
-- Updated MM to
-- Updated B9PartSwitch to
+- Updated MM to 3.0.6
+- Updated B9PartSwitch to 2.2.1
+- Updated MiniAVC to 1.2.0.1
 - Reworked crewed octo-trusses to match SSPXr art
 - Converted all parts with lights to use config-based animations
 - Revised textures of LH2/LH2O octo-truss variants to match up with CryoTanks update
