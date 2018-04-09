@@ -1,6 +1,6 @@
 v1.0.0
 ------
-- KSP 1.4.1
+- KSP 1.4.2
 - Final content update
 - Updated MM to 3.0.6
 - Updated B9PartSwitch to 2.2.1
@@ -10,8 +10,6 @@ v1.0.0
 - Revised textures of LH2/LH2O octo-truss variants to match up with CryoTanks update
 - Revised textures of Lithium octo-truss variants to match up with NFP update
 - Revisions to specular/normal maps of octo-trusses
-- Tuned docking port models to better match revised SSPXr modules
-- Added variant of docking ports with no stripes
 - New/modified parts:
 -- Replaced Cubic Octagonal Strut with new model, renamed to Cubic-Family Strut
 -- Replaced Not-Rockomax Micronode and Octagonal Strut with new models
