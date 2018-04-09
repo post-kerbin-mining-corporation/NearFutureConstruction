@@ -20,7 +20,6 @@ v1.0.0
 -- Added LFO, LF, Ox, Xenon, Mono/Ec, Ore storage to the two larger Hexa-Trusses
 -- Added LH2, LH2O, Lithium, Argon storage to the two larger Hexa-Trusses if CRP is installed
 -- Added SM-1 Stack Adapter (1.25 to 0.625m adapter)
--- Added Kerbodyne Skeletal Structural Connector (3.75 to 2.5m adapter)
 -- Added Grip-O-Tron Linear Docking Connector
 -- Added Grip-O-Tron XL Linear Docking Connector
 - Corrected configuration of boiloff modules when CryoTanks is installed
