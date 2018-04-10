@@ -1,3 +1,7 @@
+v1.0.1
+------
+- Fixed localization issue with SM-1 Stack Adapter
+
 v1.0.0
 ------
 - KSP 1.4.2
