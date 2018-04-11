@@ -3,6 +3,7 @@ v1.0.1
 - Fixed localization issue with SM-1 Stack Adapter
 - Fixed hex-truss lithium tank model offset
 - Fixed a missing normal map
+- Fixed top attach node position for long cubic-family strut
 
 v1.0.0
 ------
