@@ -1,3 +1,17 @@
+v1.0.2
+------
+- Fixed lower stack node of S-MINI Adapter being too low
+- Fixed lower stack node of Annular Truss Docking Connector being too low
+- Revised exact positions of nodes on Spinal Truss pieces
+- Fixed slight offset on Pressurized Octo-Truss Mini
+- Fixed tiny misalignment on truss mesh of some Octo-truss variants
+- Fixed lower node height on octo-truss octo-port
+- Fixed tiny misalignment on hollow truss mesh of some Hex trusses
+- Fixed old window texture emissive for pressurized parts being included instead of new one
+- Fixed misalignment of meshes on angled octo-connector models
+- Fixed misaligned mesh on replaced Rockomax Micronode
+- Fixed localization error with Planar micro trusses
+
 v1.0.1
 ------
 - Fixed localization issue with SM-1 Stack Adapter
