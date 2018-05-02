@@ -1,5 +1,7 @@
 v1.0.2
 ------
+- KSP 1.4.3
+- Updated B9PartSwtich to 2.3.0
 - Fixed lower stack node of S-MINI Adapter being too low
 - Fixed lower stack node of Annular Truss Docking Connector being too low
 - Revised exact positions of nodes on Spinal Truss pieces
