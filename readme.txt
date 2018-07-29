@@ -1,5 +1,5 @@
 ====================================
-NEAR FUTURE CONSTRUCTION PACK v1.0.2
+NEAR FUTURE CONSTRUCTION PACK v1.0.3
 ====================================
 
 This pack contains structural components suitable for building impressive looking deep space vessels and stations. This means large trusses, structural adapters, multi-adapters and radial adapters. It is part of the Near Future Technologies set of packs, so works great with any or all of them.
@@ -9,8 +9,8 @@ DEPENDENCIES
 ============
 
 Required
-- B9PartSwitch (v2.3.0)
-- ModuleManager (v3.0.6)
+- B9PartSwitch (v2.3.3)
+- ModuleManager (v3.0.7)
 
 Optional
 - Community Tech Tree (v2.0+)

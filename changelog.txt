@@ -1,3 +1,12 @@
+v1.0.3
+------
+- KSP 1.4.5
+- Updated MM to 3.0.7
+- Updated B9PartSwitch to 2.2.3
+- Widened KSP version specification to 1.4.99
+- Fixed a localization typo in switchable planar struts
+- Fixed a mesh offset on some hex truss variants
+
 v1.0.2
 ------
 - KSP 1.4.3
