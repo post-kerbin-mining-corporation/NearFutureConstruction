@@ -2,9 +2,10 @@ v1.0.4
 ------
 - KSP 1.5
 - Updated MM to 3.1.0
-- Updated B9PartSwitch to 2.4.1
+- Updated B9PartSwitch to 2.4.2
 - Fixed a issue with some parts that would cause B9PS to throw errors in versions >2.4.0
-- Modified the orientation of the 2.5m octo-docking port to be 
+- Modified the orientation of the 2.5m octo-docking port to be
+- Fixed tech tree nodes for both linear docking connectors
 
 v1.0.3
 ------
