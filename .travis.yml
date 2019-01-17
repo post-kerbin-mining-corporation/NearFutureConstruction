@@ -51,7 +51,8 @@ deploy:
     api_key: $GITHUB_OAUTH_TOKEN
     file_glob: true
     file: deploy/*
-    body: "$CHANGELOG"
+    # Disable for now, newlines don't work
+    #body: "$CHANGELOG"
     name: $RELEASE_NAME
     skip_cleanup: true
     on:
