@@ -47,9 +47,11 @@ I certainly accept pull requests. Please target all such things to the `dev` bra
 
 ## Translations
 
-* **Spanish**: Dr. Jet
+For translation instructions please see [Localization Instructions](https://github.com/ChrisAdderley/NearFutureConstruction/blob/master/GameData/NearFutureConstruction/Localization/Localization.md)
+
+* **Spanish**: fitiales
 * **Simplified Chinese**: Levin845!
-* **Russian**: fitiales
+* **Russian**: Dr. Jet
 
 ## Licensing
 

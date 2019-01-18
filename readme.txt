@@ -37,6 +37,7 @@ This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
 - Simplified Chinese (Levin845!)
 - Russian (Dr. Jet)
+
 =========
 LICENSING
 =========
