@@ -45,6 +45,12 @@ This mod includes compatibility patches for the following mods:
 
 I certainly accept pull requests. Please target all such things to the `dev` branch though!
 
+## Translations
+
+* **Spanish**: Dr. Jet
+* **Simplified Chinese**: Levin845!
+* **Russian**: fitiales
+
 ## Licensing
 
 The art assets in this pack (all .dds, .png and .mu files) are distributed under an All Rights Reserved license. You may not redistribute or re-use these assets without express permission from the author.
