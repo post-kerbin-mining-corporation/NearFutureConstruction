@@ -27,3 +27,5 @@ There are some characters that should not be translated into another language an
 ## Translation Credits
 
 * fitiales (Spanish)
+* Levin845! (Simplified Chinese)
+* Dr. Jet (Russian)

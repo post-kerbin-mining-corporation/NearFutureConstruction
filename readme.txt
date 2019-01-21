@@ -1,5 +1,5 @@
 ====================================
-NEAR FUTURE CONSTRUCTION PACK v1.0.5
+NEAR FUTURE CONSTRUCTION PACK v1.0.6
 ====================================
 
 This pack contains structural components suitable for building impressive looking deep space vessels and stations. This means large trusses, structural adapters, multi-adapters and radial adapters. It is part of the Near Future Technologies set of packs, so works great with any or all of them.
@@ -35,6 +35,8 @@ LOCALIZATION
 
 This mod includes localization support, and includes translations for
 - Spanish (KSP forum user fitiales)
+- Simplified Chinese (Levin845!)
+- Russian (Dr. Jet)
 
 =========
 LICENSING
