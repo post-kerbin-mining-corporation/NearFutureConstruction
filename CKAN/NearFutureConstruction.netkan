@@ -23,8 +23,8 @@
         { "name" : "StationPartsExpansionRedux" }
     ],
     "supports": [
-        { "name" : "ConnectedLivingSpace",
-         "name" : "CommunityResourcePack" }
+        { "name" : "ConnectedLivingSpace", },
+        { "name" : "CommunityResourcePack" }
     ],
     "install" : [
         { "find" : "NearFutureConstruction", "install_to" : "GameData" }

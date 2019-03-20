@@ -3,7 +3,7 @@ v1.1.0
 - Updated ModuleManager to 4.0.2
 - Mod-wide greyscale and specular recalibration to be consistent with Restock
 - Revised truss lithium tanks to use reflective shader for foil as in NFP 1.1+
-- Revised truss argon tanks to use reflective shader for internal-style argon tanks
+- Revised truss argon tanks to use reflective shader for internal-style argon tanks as in NFP 1.1+
 - Revised truss liquid hydrogen tank textures to align with future CryoTanks direction
 - Removed replacement models for Not-Rockomax Micronode and Octagonal strut (now in Restock)
 - Propagated fixes from restock to the variants of the Cubic Octagonal Strut Micro-Truss parts
