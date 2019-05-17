@@ -10,6 +10,11 @@ v1.1.0
 - Remodeled part of Octo-Girder Heavy Docking Connector to use the Restock style docking port
 - Remodeled part of Octo-Girder Docking Connector to use the Restock style docking port
 - Tuned textures of Octo-Girder Octagonal Docking Connector to match docking design language
+- Fixed larger radial docking connector's docking transform being recessed into the model too far
+- Added normal maps to spinal trusses
+- Added normal maps to annular trusses
+- Fixed some warnings related to B9PS 2.7.x
+- Fixed error in CryoTanks patch for some LH2-containing truss parts
 
 v1.0.6
 ------
