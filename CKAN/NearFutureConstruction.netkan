@@ -1,0 +1,32 @@
+{
+    "spec_version"        : "v1.4",
+    "identifier"          : "NearFutureConstruction",
+    "$kref"               : "#/ckan/spacedock/563",
+    "abstract"            : "Structural components and truss segments for building deep space vessels and bases. Includes various skeletal adapters and docking ports.",
+    "author"              : "Nertea",
+    "license"             : "restricted",
+    "$vref"               : "#/ckan/ksp-avc",
+    "resources": {
+      "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
+      "repository": "https://github.com/ChrisAdderley/NearFutureConstruction"
+    },
+    "depends" : [
+        { "name" : "B9PartSwitch" },
+        { "name" : "ModuleManager" }
+    ],
+    "suggests": [
+        { "name" : "CommunityTechTree" },
+        { "name" : "NearFutureElectrical" },
+        { "name" : "NearFuturePropulsion" },
+        { "name" : "NearFutureSolar" },
+        { "name" : "NearFutureSpacecraft" },
+        { "name" : "StationPartsExpansionRedux" }
+    ],
+    "supports": [
+        { "name" : "ConnectedLivingSpace", },
+        { "name" : "CommunityResourcePack" }
+    ],
+    "install" : [
+        { "find" : "NearFutureConstruction", "install_to" : "GameData" }
+    ]
+}

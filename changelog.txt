@@ -1,3 +1,23 @@
+v1.1.0
+------
+- Updated ModuleManager to 4.0.2
+- Updated B9PartSwitch to 2.7.0
+- Greyscale and specular recalibration for all trusses to be consistent with Restock (adapters will be tackled later)
+- Revised truss lithium tanks to use reflective shader for foil as in NFP 1.1+
+- Revised truss argon tanks to use reflective shader for internal-style argon tanks as in NFP 1.1+
+- Revised truss liquid hydrogen tank textures to align with future CryoTanks direction
+- Removed replacement models for Not-Rockomax Micronode and Octagonal strut (now in Restock)
+- Propagated fixes from restock to the variants of the Cubic Octagonal Strut Micro-Truss parts
+- Remodeled part of Octo-Girder Heavy Docking Connector to use the Restock style docking port
+- Remodeled part of Octo-Girder Docking Connector to use the Restock style docking port
+- Tuned textures of Octo-Girder Octagonal Docking Connector to match docking design language
+- Fixed larger radial docking connector's docking transform being recessed into the model too far
+- Added normal maps to spinal trusses
+- Added normal maps to annular trusses
+- Added normal maps to radial adapters
+- Fixed some warnings related to B9PS 2.7.x
+- Fixed error in CryoTanks patch for some LH2-containing truss parts
+
 v1.0.6
 ------
 - New translation from Levin845! (Simplified Chinese)
