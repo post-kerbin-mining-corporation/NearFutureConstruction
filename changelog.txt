@@ -1,6 +1,7 @@
 v1.1.0
 ------
 - Updated ModuleManager to 4.0.2
+- Updated B9PartSwitch to 2.7.0
 - Greyscale and specular recalibration for all trusses to be consistent with Restock (adapters will be tackled later)
 - Revised truss lithium tanks to use reflective shader for foil as in NFP 1.1+
 - Revised truss argon tanks to use reflective shader for internal-style argon tanks as in NFP 1.1+
