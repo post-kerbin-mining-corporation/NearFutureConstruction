@@ -1,3 +1,9 @@
+v1.1.1
+------
+- Fixed version specification not allowing KSP 1.7.x
+- Updates to Russian localization (Sool3)
+- Fixed some unlocalized strings in older parts (Sool3)
+
 v1.1.0
 ------
 - Updated ModuleManager to 4.0.2
