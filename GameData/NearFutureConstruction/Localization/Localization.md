@@ -28,4 +28,4 @@ There are some characters that should not be translated into another language an
 
 * fitiales (Spanish)
 * Levin845! (Simplified Chinese)
-* Dr. Jet (Russian)
+* Dr. Jet and Sool3 (Russian)

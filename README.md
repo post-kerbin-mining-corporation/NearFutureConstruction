@@ -51,7 +51,7 @@ For translation instructions please see [Localization Instructions](https://gith
 
 * **Spanish**: fitiales
 * **Simplified Chinese**: Levin845!
-* **Russian**: Dr. Jet
+* **Russian**: Dr. Jet and Sool3
 
 ## Licensing
 
