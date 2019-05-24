@@ -23,7 +23,7 @@
         { "name" : "StationPartsExpansionRedux" }
     ],
     "supports": [
-        { "name" : "ConnectedLivingSpace", },
+        { "name" : "ConnectedLivingSpace" },
         { "name" : "CommunityResourcePack" }
     ],
     "install" : [
