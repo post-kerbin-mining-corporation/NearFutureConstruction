@@ -1,3 +1,8 @@
+v1.1.2
+------
+- Updated B9PartSwitch to 2.8.0
+- Fixed octagonal docking port collider
+
 v1.1.1
 ------
 - Fixed version specification not allowing KSP 1.7.x
