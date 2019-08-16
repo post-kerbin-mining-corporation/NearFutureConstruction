@@ -2,6 +2,7 @@ v1.1.3
 ------
 - Updated B9PartSwitch to 2.9.0
 - Updated some part variants to use new B9PS 2.9.0 features
+- Fixed a bug with the upper cap mesh of the Annular Truss XL
 
 v1.1.2
 ------
