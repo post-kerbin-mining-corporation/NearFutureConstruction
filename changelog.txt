@@ -1,3 +1,11 @@
+v1.1.4
+------
+- Fixed colliders on angled octo-truss 30 and 45 degree variants
+- Fixed screwed up texture on angled crewed octo-truss
+- Fixed surface attach node on both angles octo-trusses
+- Fixed surface attach node on octo-truss drone core
+- Tuned docking parameters for linear docking ports
+
 v1.1.3
 ------
 - Updated B9PartSwitch to 2.9.0
