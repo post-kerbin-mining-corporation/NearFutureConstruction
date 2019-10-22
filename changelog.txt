@@ -1,3 +1,7 @@
+v1.1.5
+------
+- KSP 1.8
+
 v1.1.4
 ------
 - Fixed colliders on angled octo-truss 30 and 45 degree variants
