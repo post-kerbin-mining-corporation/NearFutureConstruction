@@ -1,6 +1,13 @@
-v1.1.5
+v1.2.1
 ------
-- KSP 1.8
+- Fix find and replace error
+
+v1.2.0
+------
+- KSP 1.8.x
+- Updated MM to 4.1.0
+- Updated B9PartSwitch to 2.12.1
+- Updated MM patch pass specifiers where needed
 
 v1.1.4
 ------
