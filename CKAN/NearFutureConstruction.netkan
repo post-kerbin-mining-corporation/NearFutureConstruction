@@ -8,7 +8,7 @@
     "$vref"               : "#/ckan/ksp-avc",
     "resources": {
       "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/155465-16x-near-future-technologies-16x-fixes-jan-21/",
-      "repository": "https://github.com/ChrisAdderley/NearFutureConstruction"
+      "repository": "https://github.com/post-kerbin-mining-corporation/NearFutureConstruction"
     },
     "depends" : [
         { "name" : "B9PartSwitch" },
