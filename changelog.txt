@@ -1,3 +1,9 @@
+v1.3.0
+------
+- KSP 1.11.x
+- Fix crewed truss angled adapter attach node. 
+- Set many parts as useable in inventories/construction mode 
+
 v1.2.3
 ------
 - KSP 1.10.x
