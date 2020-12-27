@@ -3,7 +3,7 @@
     "identifier"          : "NearFutureConstruction",
     "$kref"               : "#/ckan/spacedock/563",
     "abstract"            : "Structural components and truss segments for building deep space vessels and bases. Includes various skeletal adapters and docking ports.",
-    "author"              : "Chris Adderley (Nertea)",
+    "author"              : "Nertea (Chris Adderley)",
     "license"             : "restricted",
     "$vref"               : "#/ckan/ksp-avc",
     "resources": {
