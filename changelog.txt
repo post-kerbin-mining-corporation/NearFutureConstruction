@@ -1,3 +1,7 @@
+v1.3.1
+------
+- Fix cargo parts in 1.10.x
+
 v1.3.0
 ------
 - KSP 1.11.x
