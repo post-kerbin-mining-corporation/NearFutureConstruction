@@ -1,3 +1,11 @@
+v1.3.2
+------
+- KSP version update
+- Updated MM to 4.2.3
+- Updated B9PartSwitch to 2.20.0
+- Fixed targeting of B9BPS patch
+- Added VABOrganizer support
+
 v1.3.1
 ------
 - Fix cargo parts in 1.10.x

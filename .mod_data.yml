@@ -8,10 +8,10 @@ package:
     - changelog.txt
 dependencies:  # Configure dependencies
   ModuleManager:
-    version: 4.1.4
+    version: 4.2.3
     location: s3
   B9PartSwitch:
-    version: 2.17.0
+    version: 2.20.0
     location: s3
 deploy:
   SpaceDock:
