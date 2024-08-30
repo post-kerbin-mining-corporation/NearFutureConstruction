@@ -1,3 +1,8 @@
+v1.3.3
+------
+- Cleaned up part switchers, including adding color swatches for clearer PAW tracking of what's selected
+- Fixed CRP truss patch causing shown fuel tanks on some trusses
+
 v1.3.2
 ------
 - KSP version update
